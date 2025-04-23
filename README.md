@@ -6,4 +6,4 @@
 - Reduced data retrieval time by 20%, significantly improving system responsiveness and overall performance.
 
 ### Skills:
- · SQL · Extract, Transform, Load (ETL) · ETL Tools · Window Function · Aggregate Functions · Joins · CTE · Stored Procedures · views · Query Writing
+ · SQL · Extract, Transform, Load (ETL) · ETL Tools · Window Function · Aggregate Functions · Joins · CTE · Stored Procedures · Views · Query Writing
